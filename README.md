@@ -1,4 +1,4 @@
-# Domain Drive Design Resources
+# Domain Driven Design Resources
 
 Uma lista de materias pra estudar e ir fundo em ⚡ Domain Driven Design ⚡
 
