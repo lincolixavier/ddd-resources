@@ -5,7 +5,7 @@ Uma lista de materias pra estudar e ir fundo em ⚡ Domain Driven Design ⚡
 
 ## Livros 📚
 - [**Domain-Driven Design: Atacando as complexidades no coração do software**](https://amzn.to/3L7fSON)
-- [**Domain-Driven Design Distilled **](https://amzn.to/3NgBOHv)
+- [**Domain-Driven Design Distilled**](https://amzn.to/3NgBOHv)
 - [**Implementando Domain-Driven Design**](https://amzn.to/3p8dTBQ)
 - [**Learning Domain-Driven Design**](https://amzn.to/3qSzTB4)
 - [**Patterns, Principles, and Practices of Domain-Driven Design**](https://amzn.to/46aTVqF)
@@ -13,7 +13,7 @@ Uma lista de materias pra estudar e ir fundo em ⚡ Domain Driven Design ⚡
 - [**The InfoQ eMag: Domain-Driven Design in Practice**](https://www.infoq.com/minibooks/emag-domain-driven-design/)
 
 ## Palestras/Videos 📽️ 
-- [**DDD, Domain-Driven Design com Elemar Jr **](https://www.youtube.com/watch?v=NsQnmmIykoE)
+- [**DDD, Domain-Driven Design com Elemar Jr**](https://www.youtube.com/watch?v=NsQnmmIykoE)
 - [**10 perguntas sobre Domain-Driven Design**](https://www.youtube.com/watch?v=6jHgd1LY6IE)
 - [**DDD do jeito certo**](https://www.youtube.com/watch?v=2X9Q97u4tUg&list=PLkpjQs-GfEMN8CHp7tIQqg6JFowrIX9ve)
 
